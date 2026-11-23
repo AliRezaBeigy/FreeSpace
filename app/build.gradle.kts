@@ -9,17 +9,17 @@ plugins {
 // compiler plugin is still required until AGP bundles it.
 
 android {
-    namespace = "compress.joshattic.us"
+    namespace = "us.alirezabeigy.freespace"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "compress.joshattic.us"
+        applicationId = "us.alirezabeigy.freespace"
         minSdk = 24
         targetSdk = 37
-        versionCode = 29
-        versionName = "1.7.0"
+        versionCode = 1
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
