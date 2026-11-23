@@ -28,8 +28,8 @@ val Android16LightOutline              = Color(0xFF73777F)
 val Android16LightOutlineVariant       = Color(0xFFC3C7D0)
 
 // ── App Icon & Brand Colors ──────────────────────────────────────────────────
-val A16BadgeAppGreen        = Color(0xFF6FA450)   // Exact #6FA450 requested
-val A16BadgeAppGreenOnBadge = Color(0xFFFFFFFF)   // Clean white icon on green
+val A16BadgeAppGreen        = Color(0xFF0F766E)   // Free Space teal
+val A16BadgeAppGreenOnBadge = Color(0xFFFFFFFF)
 
 // ── Harmonized Green Theme Color Tokens (Fallback for non-dynamic / Android <= 11) ──
 val CompressorLightGreenBackground           = Color(0xFFEFF4ED)

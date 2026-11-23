@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="96" alt="Free Space" src="assets/logo.png" />
+  <img width="96" alt="Free Space" src="assets/logo-rounded.png" />
 
 # Free Space
 
@@ -9,6 +9,11 @@ On-device disk optimizer for Android. Scan large photos and videos, estimate sav
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
+<br>
+
+<img src="assets/screenshots/01_list.png" alt="Large media list" width="30%"/>
+<img src="assets/screenshots/02_screen.png" alt="Compression queue" width="30%"/>
+<img src="assets/screenshots/03_screen.png" alt="Compare result" width="30%"/>
 </div>
 
 ## Features
